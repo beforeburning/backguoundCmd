@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "竖标题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ykg",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "inquirer": "^1.1.2"
+  },
+  "dependencies": {
+    "gm": "^1.23.1"
+  }
+}
